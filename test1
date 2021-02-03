@@ -1,0 +1,2 @@
+const name = 'lsf'
+console.log(name)
